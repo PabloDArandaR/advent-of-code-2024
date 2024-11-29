@@ -4,6 +4,8 @@
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
+DISCLAIMER: due to personal affairs (in particular, spending part of December in the Canary Islands 😎) I will only finish on the planned schedule the problems until the 10th of December. 
+
 <!--- advent_readme_stars table --->
 
 <!--- benchmarking table --->
